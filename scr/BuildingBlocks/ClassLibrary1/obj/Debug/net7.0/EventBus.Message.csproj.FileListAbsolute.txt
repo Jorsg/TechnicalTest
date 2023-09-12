@@ -1,0 +1,15 @@
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\BuildingBlocks\ClassLibrary1\bin\Debug\net7.0\EventBus.Message.deps.json
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\BuildingBlocks\ClassLibrary1\bin\Debug\net7.0\EventBus.Message.dll
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\BuildingBlocks\ClassLibrary1\bin\Debug\net7.0\EventBus.Message.pdb
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\BuildingBlocks\ClassLibrary1\bin\Debug\net7.0\Ordering.Domain.dll
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\BuildingBlocks\ClassLibrary1\bin\Debug\net7.0\Ordering.Domain.pdb
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\BuildingBlocks\ClassLibrary1\obj\Debug\net7.0\EventBus.Message.csproj.AssemblyReference.cache
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\BuildingBlocks\ClassLibrary1\obj\Debug\net7.0\EventBus.Message.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\BuildingBlocks\ClassLibrary1\obj\Debug\net7.0\EventBus.Message.AssemblyInfoInputs.cache
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\BuildingBlocks\ClassLibrary1\obj\Debug\net7.0\EventBus.Message.AssemblyInfo.cs
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\BuildingBlocks\ClassLibrary1\obj\Debug\net7.0\EventBus.Message.csproj.CoreCompileInputs.cache
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\BuildingBlocks\ClassLibrary1\obj\Debug\net7.0\EventBus.Message.csproj.CopyComplete
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\BuildingBlocks\ClassLibrary1\obj\Debug\net7.0\EventBus.Message.dll
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\BuildingBlocks\ClassLibrary1\obj\Debug\net7.0\refint\EventBus.Message.dll
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\BuildingBlocks\ClassLibrary1\obj\Debug\net7.0\EventBus.Message.pdb
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\BuildingBlocks\ClassLibrary1\obj\Debug\net7.0\ref\EventBus.Message.dll

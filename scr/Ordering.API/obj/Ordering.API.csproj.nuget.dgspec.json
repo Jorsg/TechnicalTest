@@ -1,0 +1,382 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.API\\Ordering.API.csproj": {}
+  },
+  "projects": {
+    "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\BuildingBlocks\\ClassLibrary1\\EventBus.Message.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\BuildingBlocks\\ClassLibrary1\\EventBus.Message.csproj",
+        "projectName": "EventBus.Message",
+        "projectPath": "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\BuildingBlocks\\ClassLibrary1\\EventBus.Message.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\BuildingBlocks\\ClassLibrary1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.Domain\\Ordering.Domain.csproj": {
+                "projectPath": "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.Domain\\Ordering.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400-preview.23225.8\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.API\\Ordering.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.API\\Ordering.API.csproj",
+        "projectName": "Ordering.API",
+        "projectPath": "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.API\\Ordering.API.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.400-preview.23225.8\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\BuildingBlocks\\ClassLibrary1\\EventBus.Message.csproj": {
+                "projectPath": "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\BuildingBlocks\\ClassLibrary1\\EventBus.Message.csproj"
+              },
+              "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.Application\\Ordering.Application.csproj": {
+                "projectPath": "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.Application\\Ordering.Application.csproj"
+              },
+              "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.Infraestructure\\Ordering.Infraestructure.csproj": {
+                "projectPath": "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.Infraestructure\\Ordering.Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400-preview.23225.8\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.Application\\Ordering.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.Application\\Ordering.Application.csproj",
+        "projectName": "Ordering.Application",
+        "projectPath": "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.Application\\Ordering.Application.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.Domain\\Ordering.Domain.csproj": {
+                "projectPath": "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.Domain\\Ordering.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400-preview.23225.8\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.Domain\\Ordering.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.Domain\\Ordering.Domain.csproj",
+        "projectName": "Ordering.Domain",
+        "projectPath": "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.Domain\\Ordering.Domain.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400-preview.23225.8\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.Infraestructure\\Ordering.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.Infraestructure\\Ordering.Infraestructure.csproj",
+        "projectName": "Ordering.Infraestructure",
+        "projectPath": "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.Infraestructure\\Ordering.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.Application\\Ordering.Application.csproj": {
+                "projectPath": "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.Application\\Ordering.Application.csproj"
+              },
+              "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.Domain\\Ordering.Domain.csproj": {
+                "projectPath": "D:\\Repos\\repos\\TechnicalTest.JormanGarcia\\scr\\Ordering.Domain\\Ordering.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400-preview.23225.8\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

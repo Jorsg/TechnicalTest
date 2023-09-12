@@ -1,0 +1,78 @@
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\bin\Debug\net6.0\appsettings.Development.json
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\bin\Debug\net6.0\appsettings.json
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\bin\Debug\net6.0\OcelotApiGW.exe
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\bin\Debug\net6.0\OcelotApiGW.deps.json
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\bin\Debug\net6.0\OcelotApiGW.runtimeconfig.json
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\bin\Debug\net6.0\OcelotApiGW.dll
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\bin\Debug\net6.0\OcelotApiGW.pdb
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\bin\Debug\net6.0\FluentValidation.dll
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\bin\Debug\net6.0\Ocelot.dll
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\obj\Debug\net6.0\OcelotApiGW.csproj.AssemblyReference.cache
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\obj\Debug\net6.0\OcelotApiGW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\obj\Debug\net6.0\OcelotApiGW.AssemblyInfoInputs.cache
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\obj\Debug\net6.0\OcelotApiGW.AssemblyInfo.cs
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\obj\Debug\net6.0\OcelotApiGW.csproj.CoreCompileInputs.cache
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\obj\Debug\net6.0\OcelotApiGW.MvcApplicationPartsAssemblyInfo.cs
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\obj\Debug\net6.0\OcelotApiGW.MvcApplicationPartsAssemblyInfo.cache
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\obj\Debug\net6.0\staticwebassets\msbuild.OcelotApiGW.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\obj\Debug\net6.0\staticwebassets\msbuild.build.OcelotApiGW.props
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OcelotApiGW.props
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OcelotApiGW.props
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\obj\Debug\net6.0\staticwebassets.build.json
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\obj\Debug\net6.0\staticwebassets.development.json
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\obj\Debug\net6.0\scopedcss\bundle\OcelotApiGW.styles.css
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\obj\Debug\net6.0\OcelotApiGW.csproj.CopyComplete
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\obj\Debug\net6.0\OcelotApiGW.dll
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\obj\Debug\net6.0\refint\OcelotApiGW.dll
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\obj\Debug\net6.0\OcelotApiGW.pdb
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\obj\Debug\net6.0\OcelotApiGW.genruntimeconfig.cache
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\obj\Debug\net6.0\ref\OcelotApiGW.dll
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\bin\Debug\net6.0\Ocelot.Delopment.json
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\bin\Debug\net6.0\Ocelot.json
+D:\Git Projects\NetMicroservices\src\ApiGateways\OcelotApiGW\bin\Debug\net6.0\Ocelot.Local.json
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\bin\Debug\net6.0\appsettings.Development.json
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\bin\Debug\net6.0\appsettings.json
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\bin\Debug\net6.0\Ocelot.Delopment.json
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\bin\Debug\net6.0\Ocelot.Local.json
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\bin\Debug\net6.0\Ocelot.json
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\bin\Debug\net6.0\OcelotApiGW.exe
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\bin\Debug\net6.0\OcelotApiGW.deps.json
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\bin\Debug\net6.0\OcelotApiGW.runtimeconfig.json
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\bin\Debug\net6.0\OcelotApiGW.dll
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\bin\Debug\net6.0\OcelotApiGW.pdb
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\bin\Debug\net6.0\FluentValidation.dll
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\bin\Debug\net6.0\Ocelot.dll
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\obj\Debug\net6.0\OcelotApiGW.csproj.AssemblyReference.cache
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\obj\Debug\net6.0\OcelotApiGW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\obj\Debug\net6.0\OcelotApiGW.AssemblyInfoInputs.cache
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\obj\Debug\net6.0\OcelotApiGW.AssemblyInfo.cs
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\obj\Debug\net6.0\OcelotApiGW.csproj.CoreCompileInputs.cache
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\obj\Debug\net6.0\OcelotApiGW.MvcApplicationPartsAssemblyInfo.cs
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\obj\Debug\net6.0\OcelotApiGW.MvcApplicationPartsAssemblyInfo.cache
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\obj\Debug\net6.0\staticwebassets\msbuild.OcelotApiGW.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\obj\Debug\net6.0\staticwebassets\msbuild.build.OcelotApiGW.props
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OcelotApiGW.props
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OcelotApiGW.props
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\obj\Debug\net6.0\staticwebassets.build.json
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\obj\Debug\net6.0\staticwebassets.development.json
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\obj\Debug\net6.0\scopedcss\bundle\OcelotApiGW.styles.css
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\obj\Debug\net6.0\OcelotApiGW.csproj.CopyComplete
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\obj\Debug\net6.0\OcelotApiGW.dll
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\obj\Debug\net6.0\refint\OcelotApiGW.dll
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\obj\Debug\net6.0\OcelotApiGW.pdb
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\obj\Debug\net6.0\OcelotApiGW.genruntimeconfig.cache
+D:\Repos\repos\TechnicalTest.JormanGarcia\scr\ApiGateways\OcelotApiGW\obj\Debug\net6.0\ref\OcelotApiGW.dll
